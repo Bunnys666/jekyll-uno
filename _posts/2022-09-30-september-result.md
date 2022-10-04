@@ -54,8 +54,8 @@ excerpt: "Based on September"
 
 <div class="mermaid">
 
-pie title Total WinRate
+pie title Total Trade
     "Take Profit" : 144
     "Stop Loss" : 67.5
-    "OFF" : 11
+    "OFF" : 6
 </div>
